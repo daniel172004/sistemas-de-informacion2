@@ -2,7 +2,7 @@
 # sistemas-de-informacion2
 para la tarea del dia martes
 =======
-# ELEKTRON XP · Pair Programming
+#  · Pair Programming
 
 Proyecto académico en Python para dos historias de usuario XP:
 
